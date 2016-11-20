@@ -18,4 +18,4 @@ TensorFlow on an AWS EC2 Instance with GPU Support
 
 * 처음부터 높은 사양의 Instance를 사용하여 구축하게되면 많은 비용이 청구될 수 있다. AWS는 사용시간에 따른 과금제도 이므로, 연산이 끝나면 Instance를 꼭 Stop 시키길 바란다.
 
-* AWS 사용으로 인한 비용이나 과금, 데이터망실 등의 모든 법적책임은 사용자에게 있다.
+* AWS 사용으로 인한 비용이나 과금, 데이터망실 등의 모든 책임은 사용자에게 있다.
